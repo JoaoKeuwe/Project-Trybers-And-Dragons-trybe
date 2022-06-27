@@ -1,4 +1,4 @@
-describe.only('01 - Classe Race', () => {
+describe('01 - Classe Race', () => {
   it('A classe Race existe', () => {
     expect('Races.exists').toCompile();
   });
