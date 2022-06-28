@@ -1,4 +1,4 @@
-import Battle, { PVP } from '../../src/Battle';
+import Battle, { PVP } from '../../src/Races/Battle';
 import Character from '../../src/Character';
 
 const fight = (battle: Battle) => battle.fight();
